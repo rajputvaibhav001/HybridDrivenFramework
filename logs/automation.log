@@ -1,0 +1,6 @@
+10:54:57.040 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\HybridDrivenFramework\masterTestng.xml
+
+10:55:09.624 [TestNG-tests-1] INFO  testCase.AccountRegistrationTest- Starting TestCase.
+10:55:23.470 [TestNG-tests-1] INFO  testCase.AccountRegistrationTest- Click on My Account
+10:56:03.960 [TestNG-tests-1] INFO  testCase.LoginTest- Starting LoginTest
